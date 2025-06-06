@@ -19,13 +19,10 @@ Coming soon...
 
 If you find Nerfies useful for your work please cite:
 ```
-@misc{dang2025svimosynchronizeddiffusionvideo,
-      title={SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios}, 
-      author={Lingwei Dang and Ruizhi Shao and Hongwen Zhang and Wei Min and Yebin Liu and Qingyao Wu},
-      year={2025},
-      eprint={2506.02444},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.02444}, 
+@article{dang2025svimo,
+  title={SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios},
+  author={Dang, Lingwei and Shao, Ruizhi and Zhang, Hongwen and Min, Wei and Liu, Yebin and Wu, Qingyao},
+  journal={arXiv preprint arXiv:2506.02444},
+  year={2025}
 }
 ```
