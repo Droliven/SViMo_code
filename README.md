@@ -14,10 +14,10 @@ Coming soon...
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{dang2025svimo,
+@inproceedings{dang2025svimo,
   title={SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios},
   author={Dang, Lingwei and Shao, Ruizhi and Zhang, Hongwen and Min, Wei and Liu, Yebin and Wu, Qingyao},
-  journal={arXiv preprint arXiv:2506.02444},
+  booktitle=NeurIPS,
   year={2025}
 }
 ```
